@@ -1,0 +1,368 @@
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe.config
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\bin\Debug\shop_online.pdb
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\obj\Debug\shop_online.csprojAssemblyReference.cache
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\obj\Debug\shop_online.FormLogin.resources
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\obj\Debug\shop_online.Properties.Resources.resources
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.GenerateResource.cache
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.CoreCompileInputs.cache
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\obj\Debug\shop_online.exe
+C:\partitia d\Visual Studio\visual studio proiecte\online_shop\shop_online\shop_online\obj\Debug\shop_online.pdb
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe.config
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\shop_online.pdb
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.csprojAssemblyReference.cache
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.FormLogin.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.Properties.Resources.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.GenerateResource.cache
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.CoreCompileInputs.cache
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.exe
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.pdb
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.exe.config
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\netstandard.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.AppContext.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Collections.Concurrent.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Collections.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Collections.NonGeneric.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Collections.Specialized.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Console.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Data.Common.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Contracts.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Debug.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Process.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Tools.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Tracing.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Drawing.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Dynamic.Runtime.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Globalization.Calendars.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Globalization.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Globalization.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.Compression.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.IsolatedStorage.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.Pipes.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Linq.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Linq.Expressions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Linq.Parallel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Linq.Queryable.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.Http.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.NameResolution.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.NetworkInformation.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.Ping.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.Requests.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.Security.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.Sockets.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.WebSockets.Client.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Net.WebSockets.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.ObjectModel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Reflection.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Reflection.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Reflection.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Resources.Reader.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Resources.ResourceManager.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Resources.Writer.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Handles.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.InteropServices.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Numerics.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Claims.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Principal.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.SecureString.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Text.Encoding.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Text.RegularExpressions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Overlapped.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Thread.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.ThreadPool.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Timer.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.ValueTuple.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Xml.ReaderWriter.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XDocument.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XmlDocument.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XmlSerializer.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XPath.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Memory.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Memory.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.CopyComplete
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.Afisare_Produse.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Produse.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.ProductControl.resources
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe.config
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\shop_online.pdb
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.dll
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Memory.dll
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.xml
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Memory.xml
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.AssemblyReference.cache
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Produse.resources
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.Afisare_Produse.resources
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.FormLogin.resources
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.ProductControl.resources
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.Properties.Resources.resources
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.GenerateResource.cache
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.CoreCompileInputs.cache
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_onl.1721B023.Up2Date
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.exe
+C:\Users\botah\Documents\Facultate\anul_3\Semestru_2\Informatica_Industriala\PROIECT\online_shop\shop_online\shop_online\obj\Debug\shop_online.pdb
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.DetaliiProdus.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.Cos.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.ProdusCos.resources
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe.config
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\shop_online.pdb
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Memory.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Memory.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.AssemblyReference.cache
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Produse.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.Afisare_Produse.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.Cos.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.DetaliiProdus.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.FormLogin.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.ProductControl.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.ProdusCos.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.Properties.Resources.resources
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.GenerateResource.cache
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.CoreCompileInputs.cache
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_onl.1721B023.Up2Date
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.exe
+C:\GITHUB\online_shop\shop_online\shop_online\obj\Debug\shop_online.pdb
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.legacy.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.abstractions.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.assert.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.core.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.execution.desktop.dll
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.legacy.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.abstractions.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.assert.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.core.xml
+C:\GITHUB\online_shop\shop_online\shop_online\bin\Debug\xunit.execution.desktop.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.abstractions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.assert.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.core.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.execution.desktop.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.abstractions.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.assert.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.core.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\xunit.execution.desktop.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Stergere_Admin.resources
+=======
+C:\partitia d\Visual Studio\visual studio proiecte\Shop_Online\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Furnizor.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe.config
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\shop_online.exe
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\shop_online.pdb
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\netstandard.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.AppContext.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Collections.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Collections.Specialized.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Console.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Data.Common.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Globalization.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.Compression.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.Pipes.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Linq.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Linq.Expressions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Linq.Parallel.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Linq.Queryable.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.Http.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.NameResolution.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.Ping.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.Requests.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.Security.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.Sockets.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Net.WebSockets.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.ObjectModel.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Reflection.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Resources.Reader.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Resources.Writer.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Handles.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Claims.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Principal.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.SecureString.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Text.Encoding.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Thread.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Timer.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.ValueTuple.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XDocument.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XPath.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Memory.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.abstractions.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.assert.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.core.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.execution.desktop.dll
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\nunit.framework.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Buffers.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Memory.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.abstractions.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.assert.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.core.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\bin\Debug\xunit.execution.desktop.xml
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.AssemblyReference.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.SuggestedBindingRedirects.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.exe.config
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Furnizor.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Produse.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.Adauga_Stergere_Admin.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.Afisare_Produse.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.Cos.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.DetaliiProdus.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.FormLogin.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.ProductControl.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.ProdusCos.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.Properties.Resources.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.Stergere_Produs.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.GenerateResource.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.CoreCompileInputs.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.csproj.CopyComplete
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.exe
+C:\Users\claudiu\Desktop\Facultate\An3\II\OnlineShop\online_shop\shop_online\shop_online\obj\Debug\shop_online.pdb
